@@ -1,7 +1,7 @@
 ### 👋 Hi there, Welcome to my Github👋
 
 ![NhutNguyen236 GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutNguyen236&show_icons=true&theme=synthwave)
-[![NhutNguyen236 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhutNguyen236&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhutNguyen236&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
