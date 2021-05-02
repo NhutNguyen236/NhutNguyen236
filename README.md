@@ -1,7 +1,7 @@
 ### 👋 Hi there, Welcome to my Github👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutNguyen236&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhutNguyen236&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![NhutNguyen236 GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutNguyen236&show_icons=true&theme=synthwave)
+[![NhutNguyen236 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhutNguyen236&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
