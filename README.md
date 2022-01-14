@@ -17,7 +17,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/minh-nhut-nguyen-a70834174/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://tdt.academia.edu/NhutNguyen"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Academia&logoColor=black&color=white"/></a>
+  <a href="https://www.linkedin.com/in/minh-nhut-nguyen-a70834174/"><img src="https://img.shields.io/badge/-MinhNhutNguyen%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://tdt.academia.edu/NhutNguyen"><img src="https://img.shields.io/badge/-NhutNguyen%20-0077B5?style=flat&logo=Academia&logoColor=black&color=white"/></a>
 </p>
 
