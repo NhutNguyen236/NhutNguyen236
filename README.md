@@ -19,5 +19,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/minh-nhut-nguyen-a70834174/" target="blank"><img src="https://img.shields.io/badge/-MinhNhutNguyen%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://tdt.academia.edu/NhutNguyen" target="blank"><img src="https://img.shields.io/badge/-NhutNguyen%20-0077B5?style=flat&logo=Academia&logoColor=black&color=white"/></a>
+  <a href="https://www.hackerrank.com/NhutNguyen" target="blank"><img src="https://img.shields.io/badge/-NhutNguyen%20-0077B5?style=flat&logo=Hackerrank&logoColor=black&color=white"/></a>
 </p>
 
