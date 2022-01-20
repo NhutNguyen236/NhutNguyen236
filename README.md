@@ -5,7 +5,7 @@
 <!-- alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>-->
 <h2>Hey there! Welcome to my Github</h2>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/NhutNguyen236">
@@ -14,15 +14,20 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
-#### 🏠 &nbsp;My social media
+<h3 align="center">
+  🏠 &nbsp;My social media
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/minh-nhut-nguyen-a70834174/" target="blank"><img src="https://img.shields.io/badge/-MinhNhutNguyen%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://tdt.academia.edu/NhutNguyen" target="blank"><img src="https://img.shields.io/badge/-NhutNguyen%20-0077B5?style=flat&logo=Academia&logoColor=black&color=white"/></a>
   
-#### 👩‍💻 &nbsp;My coding routine
+<h3 align="center">
+  &nbsp;My coding routine
+</h3>
+
 <p align="center">
   <a href="https://www.hackerrank.com/NhutNguyen" target="blank"><img src="https://img.shields.io/badge/-NhutNguyen%20-0077B5?style=flat&logo=Hackerrank&logoColor=black&color=green"/></a>
 </p>
