@@ -4,7 +4,7 @@
 
 <!-- alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>-->
 <!--<h2>Hey there! Welcome to my Github</h2>-->
-<img src="/assets/welcome.png">
+<img src="/assets/welcome.png" width="200%">
 
 ## ⚙️ &nbsp;GitHub Analytics
 
